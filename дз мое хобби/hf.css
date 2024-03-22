@@ -1,0 +1,9 @@
+body {
+    background: #FFF;
+    color:#000; 
+    font-family: Arial;
+    font-size: 24px;
+}
+#content {
+    padding: 5px 10 px;
+    border: 1px indigo dashed;
